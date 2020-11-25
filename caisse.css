@@ -241,3 +241,8 @@ body {
     top: -5px;
     left: 70px;
 }
+
+rasengan{
+    position: absolute;
+    z-index: 10;
+}
